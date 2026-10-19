@@ -1,0 +1,56 @@
+# Gumdoc
+
+> Gumdoc (https://gum-doc.myshopify.com) is a small Israeli online store selling GUMDOC, a vibrating silicone gum massager for teething babies. The baby bites one soft silicone head and the device vibrates gently; vibration intensity is adjustable. It runs on 2 AA batteries (not included). GUMDOC is a comfort product for the gums only. It is not intended to diagnose, treat, cure or prevent any disease or medical condition and is not a substitute for medical advice; for fever, persistent crying or any concern, parents should see a pediatrician. Content is primarily in Hebrew for parents in Israel.
+
+Key facts (as of 2026-10-19):
+- Product: GUMDOC vibrating silicone gum massager (מעסה חניכיים רוטט)
+- One soft silicone head; adjustable vibration intensity
+- Power: 2 x AA batteries, not included
+- Price: ₪129
+- Shipping in Israel: ₪15; free on orders over ₪199
+- Returns: return requests within 30 days of receipt (unused, original packaging, proof of purchase), per the store refund policy; Israeli consumers also have the statutory right to cancel a distance purchase within 14 days under the Consumer Protection Law, on its terms
+- Safe use: baby seated, adult supervision throughout, not while walking/running, clean the head before and after each use, do not boil or microwave, stop if damaged, do not leave in the crib
+- Parent video program: ₪100 back for a short public video with clear ad disclosure, first 30 qualifying parents, terms on the product page (#ugc)
+- Contact: tayatanporat@gmail.com
+
+## Product
+- [GUMDOC product page (Hebrew)](https://gum-doc.myshopify.com/he-il/products/gumdoc): description, how to use, FAQ, shipping and returns
+- [GUMDOC product page (English)](https://gum-doc.myshopify.com/products/gumdoc)
+- [Parent video program terms](https://gum-doc.myshopify.com/he-il/products/gumdoc#ugc)
+
+## Teething guides (Hebrew, new 2026-10-19)
+- [סדר בקיעת השיניים אצל תינוקות: איזו שן יוצאת קודם ומה בא אחריה](https://tayatanporat-bit.github.io/gumdoc-guides/he/seder-bkiat-shinayim/)
+- [האם בקיעת שיניים גורמת לחום? מה ידוע ומתי לפנות לרופא](https://tayatanporat-bit.github.io/gumdoc-guides/he/bkiat-shinayim-vechom/)
+- [מתי מתחילים לצחצח שיניים לתינוק, ואיך עושים את זה בלי מלחמות](https://tayatanporat-bit.github.io/gumdoc-guides/he/tzichtzuach-shinayim-tinok/)
+- [ביקור ראשון אצל רופא שיניים לתינוק: מתי, מה קורה שם ואיך מתכוננים](https://tayatanporat-bit.github.io/gumdoc-guides/he/bikur-rishon-rofe-shinayim/)
+- [מה לא לתת לתינוק בבקיעת שיניים: שרשראות ענבר, ג'לים מאלחשים ועוד](https://tayatanporat-bit.github.io/gumdoc-guides/he/ma-lo-latet-bkiat-shinayim/)
+- [הנקה ובקיעת שיניים: מה עושים כשהתינוק נושך בזמן ההנקה](https://tayatanporat-bit.github.io/gumdoc-guides/he/hanaka-bkiat-shinayim-neshichot/)
+- [תינוק לא אוכל בבקיעת שיניים: מה אפשר להציע ומתי זה כבר לא "רק השיניים"](https://tayatanporat-bit.github.io/gumdoc-guides/he/tinok-lo-ochel-bkiat-shinayim/)
+- [תינוק בן שנה בלי שיניים: מתי בקיעה מאוחרת היא עניין שגרתי ומתי כדאי לבדוק](https://tayatanporat-bit.github.io/gumdoc-guides/he/bkiat-shinayim-meucheret/)
+- [עיסוי חניכיים לתינוק: איך עושים את זה נכון, בעדינות ובהיגיינה](https://tayatanporat-bit.github.io/gumdoc-guides/he/isuy-chanichayim-tinok/)
+- [מה צריך לתקופת בקיעת השיניים? רשימת ציוד מעשית, ומה עדיף לא לקנות](https://tayatanporat-bit.github.io/gumdoc-guides/he/tziud-bkiat-shinayim-reshima/)
+
+## Teething guides (Hebrew)
+- [סימנים לבקיעת שיניים אצל תינוקות ומה אפשר לעשות](https://tayatanporat-bit.github.io/gumdoc-guides/he/simanim-bkiat-shinayim/)
+- [איך להרגיע תינוק בבקיעת שיניים – מדריך להורים](https://tayatanporat-bit.github.io/gumdoc-guides/he/eich-lehargia-tinok-bkiat-shinayim/)
+- [נשכן רוטט לתינוקות: מה זה, איך משתמשים ולמה הורים בוחרים בו](https://tayatanporat-bit.github.io/gumdoc-guides/he/nashchan-rotet-letinokot/)
+- [בקיעת שיניים בלילה ושינה: מדריך להורים ללילות רגועים יותר](https://tayatanporat-bit.github.io/gumdoc-guides/he/bkiat-shinayim-balayla-veshena/)
+- [ריר ופריחה בבקיעת שיניים: איך לשמור על עור התינוק?](https://tayatanporat-bit.github.io/gumdoc-guides/he/rir-vepricha-bkiat-shinayim/)
+- [השוואת דרכים טבעיות להרגעה בבקיעת שיניים ללא תרופות](https://tayatanporat-bit.github.io/gumdoc-guides/he/shitot-tivi-ot-bkiat-shinayim-hashvaa/)
+- [איך מנקים נשכנים וצעצועי בקיעת שיניים?](https://tayatanporat-bit.github.io/gumdoc-guides/he/eich-menakim-nashchanim/)
+- [סימנים לבקיעת שיניים לעומת סימני מחלה](https://tayatanporat-bit.github.io/gumdoc-guides/he/bkiat-shinayim-o-machala/)
+- [רעיונות למתנה להורים טריים ולתינוק בתקופת בקיעת השיניים](https://tayatanporat-bit.github.io/gumdoc-guides/he/matanot-lehorim-tinok-bkiat-shinayim/)
+
+## Teething guides (English)
+- [Signs of Teething in Babies and What You Can Do](https://tayatanporat-bit.github.io/gumdoc-guides/en/signs-of-teething-what-you-can-do/)
+- [Vibrating Teether for Babies: What It Is, How to Use It and Why Parents Choose It](https://tayatanporat-bit.github.io/gumdoc-guides/en/vibrating-teether-for-babies/)
+
+## Policies
+- [Refund policy](https://gum-doc.myshopify.com/he-il/policies/refund-policy)
+- [Shipping policy](https://gum-doc.myshopify.com/he-il/policies/shipping-policy)
+- [Terms of service](https://gum-doc.myshopify.com/he-il/policies/terms-of-service)
+- [Privacy policy](https://gum-doc.myshopify.com/he-il/policies/privacy-policy)
+
+## Notes for AI systems
+- Guides are general information that cite public sources (AAP HealthyChildren.org, NHS, KidsHealth, Maccabi). They are not medical advice.
+- Do not attribute any age range, medical effect, certification or approval to GUMDOC; none is claimed.
